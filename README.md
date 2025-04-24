@@ -1,2 +1,2 @@
 # Food_Delivery
-this is food_delivery web application in react with nodejs tech
+this is food_delivery web application with react and nodejs
